@@ -1,0 +1,314 @@
+[
+    {
+        "id": 1,
+        "descricao": "Profissão Developer",
+        "series": [
+            {
+                "id": 2,
+                "nome": "01-Algoritmos e Lógica de Programação",
+                "sinopse": "<p>Quer realmente aprender programa&ccedil;&atilde;o? Ent&atilde;o este &eacute; seu primeiro passo para entender como instruir uma m&aacute;quina</p>\n\n<p>&Eacute; dif&iacute;cil? Sim!&nbsp;</p>\n\n<p>Leva tempo? Sim</p>\n\n<p>Vai ter momentos de altos e baixos? SIM</p>\n\n<p>Puxa, mas tudo isso vale a pena? SIM! Vale a pena!&nbsp;</p>\n\n<p>Algoritmos s&atilde;o a sua base, seu alicerce para conseguir resolver qualquer problema em qualquer linguagem. Fa&ccedil;a todos os exerc&iacute;cios de forma bastante calma e com muita inten&ccedil;&atilde;o (de forma deliberada), pois o seu sucesso est&aacute; intimamente relacionado a alguns fatores:</p>\n\n<ul>\n\t<li>const&acirc;ncia em sempre fazer exerc&iacute;cios</li>\n\t<li>fazer muito, praticar muito</li>\n\t<li>saber que vai ser dif&iacute;cil, que voc&ecirc; ter&aacute; dificuldades e que muitas vezes voc&ecirc; ter&aacute; frustra&ccedil;&otilde;es</li>\n</ul>\n\n<p>Mas n&atilde;o desanime! Vai valer a pena!</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/dd192250-c22e-4fe0-992e-bc676b0da4b7.jpg",
+                "avaliacao": 0.0,
+                "emiteCertificado": 1,
+                "cargaHoraria": 149
+            },
+            {
+                "id": 3,
+                "nome": "Bancos de Dados",
+                "sinopse": "<p>Vamos falar de armazenamento de dados? Armazenamento de Dados Estruturados?</p>\n\n<p>Nesta s&eacute;rie, os principais pontos que precisamos entender est&atilde;o relacionados a:</p>\n\n<ul>\n\t<li>Entender um problema e identificar o que vamos efetivamente armazenar</li>\n\t<li>Identificar entidades, caracteriz&aacute;-las</li>\n\t<li>Identificar e estabelecer rela&ccedil;&otilde;es entre elas (e suas cardinalidades, ou seja, o n&uacute;mero de ocorr&ecirc;ncias que esses v&iacute;nculos acontecem)</li>\n\t<li>Saber como recuperar a informa&ccedil;&atilde;o armazenada</li>\n</ul>\n\n<p>Mas principalmente: por que definimos bases de dados? Porque precisamos, antes de estruturar a informa&ccedil;&atilde;o, saber como ela ser&aacute; recuperada e quais &ldquo;perguntas&rdquo; precisamos responder a partir dos dados armazenados.</p>\n\n<p>Como estudo de caso, vamos usar o ferramental do MySQL</p>\n\n<ul>\n\t<li>MySQL Server e sua linha de comando - Fa&ccedil;a Download <a href=\"https://dev.mysql.com/downloads/mysql/8.0.html\">AQUI</a></li>\n\t<li>MySQL Workbench como uma interface gr&aacute;fica alternativa - Fa&ccedil;a Download <a href=\"https://dev.mysql.com/downloads/workbench/\">AQUI</a></li>\n</ul>\n\n<p>E fa&ccedil;a o download tamb&eacute;m do <a href=\"https://app.isiflix.com.br/#/download?q=540a4997-f3cd-4194-8849-05bd8bf37e2b\" target=\"_blank\">Guia de Estudos de Bancos de Dados</a> que eu preparei para voc&ecirc;.</p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/scripts_bancos_de_dados\" target=\"_blank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" /></a>&nbsp; Aqui voc&ecirc; tem acesso ao reposit&oacute;rio com os Scripts que fizemos durante o curso</p>\n\n<p>Vamos juntos que esta jornada est&aacute; s&oacute; come&ccedil;ando!</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/d207cb74-1f0a-43ed-ab31-b6e4affbc0f0.jpg",
+                "avaliacao": 0.0,
+                "emiteCertificado": 1,
+                "cargaHoraria": 447
+            },
+            {
+                "id": 1,
+                "nome": "00-Introdução à Computação",
+                "sinopse": "<p>Conhe&ccedil;a todas as caracter&iacute;sticas por tr&aacute;s do seu computador.<br />\nNeste curso vamos explorar muitos conte&uacute;dos relacionados a:</p>\n\n<ul>\n\t<li>M&aacute;quinas de Von Neumann</li>\n\t<li>Aritm&eacute;tica Bin&aacute;ria</li>\n\t<li>Convers&atilde;o entre bases</li>\n\t<li>Portas L&oacute;gicas</li>\n\t<li>Tabelas Verdade</li>\n</ul>\n\n<p>Entenda efetivamente como funciona seu computador e como a informa&ccedil;&atilde;o &eacute; apresentada e manipulada</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/eb63eee8-cb1b-4c23-af76-86be506802d8.jpg",
+                "avaliacao": 0.0,
+                "emiteCertificado": 1,
+                "cargaHoraria": 124
+            },
+            {
+                "id": 7,
+                "nome": "Fundamentos de Java",
+                "sinopse": "<p>Talvez uma das principais s&eacute;ries de toda IsiFLIX. Aqui voc&ecirc; ter&aacute; contato com os fundamentos de JAVA desde o b&aacute;sico at&eacute; o tratamento de Lambdas e Streams.&nbsp;</p>\n\n<p><em>&ldquo;Mas Isidro, &eacute; igual ao do Youtube?&rdquo;</em> A resposta &eacute;: <strong>n&atilde;o!</strong></p>\n\n<p>No curso do Youtube nossos exerc&iacute;cios limitavam-se &agrave; primeira parte (a parte de l&oacute;gica de programa&ccedil;&atilde;o) que tamb&eacute;m temos aqui. Na 2a parte, de orienta&ccedil;&atilde;o a objetos, classes abstratas, interfaces havia muito pouco material para praticar e agora vamos sim ter esses materiais dispon&iacute;veis com enunciados, propostas de discuss&atilde;o e resolu&ccedil;&otilde;es em v&iacute;deo.</p>\n\n<p>Portanto, aproveite a jornada. &Eacute; bastante coisa para estudarmos e o caminho est&aacute; s&oacute; come&ccedil;ando!</p>\n\n<h2>Lista de Materiais Extras para voc&ecirc; poder acompanhar o curso</h2>\n\n<p>Recomenda&ccedil;&atilde;o: sempre que forem fazer o download, o fa&ccedil;am abrindo o link em outra janela :)</p>\n\n<ul>\n\t<li><a href=\"https://app.isiflix.com.br/#/download?q=a7c804aa-099d-48b1-baa8-fda2ca9d1c86\" target=\"_blank\">Introdu&ccedil;&atilde;o ao Java</a></li>\n\t<li><a href=\"https://app.isiflix.com.br/#/download?q=331f50e1-e711-41ae-bb3d-3449729ee6c1\" target=\"_blank\">Tipos de Dados e Principais operadores da Linguagem</a></li>\n\t<li><a href=\"https://app.isiflix.com.br/#/download?q=a91623a7-9290-4090-bbc6-d934dd529350\" target=\"_blank\">Conceitos de Orienta&ccedil;&atilde;o a Objetos e manipula&ccedil;&atilde;o de objetos na mem&oacute;ria</a></li>\n\t<li><a href=\"https://app.isiflix.com.br/#/download?q=cee0d16d-46bf-4e8d-a230-8ad395dec0e0\" target=\"_blank\">Heran&ccedil;a, Polimorfismo, Classes Abstratas e Interfaces</a></li>\n\t<li><a href=\"https://app.isiflix.com.br/#/download?q=50510c23-17f4-4429-8022-e4f3e1a19f29\" target=\"_blank\">Exce&ccedil;&otilde;es - Tratamento, cria&ccedil;&atilde;o e Lan&ccedil;amento</a></li>\n</ul>\n\n<p>Listas de Exerc&iacute;cios</p>\n\n<ul>\n\t<li><a href=\"https://app.isiflix.com.br/#/download?q=87a0ccdd-e8df-4ab5-bad2-80a068bc4ddf\" target=\"_blank\">Exerc&iacute;cios sobre Orienta&ccedil;&atilde;o a Objetos</a></li>\n\t<li><a href=\"https://app.isiflix.com.br/#/download?q=a74d2ed2-0b04-4f9d-accb-e0242b2ef356\" target=\"_blank\">Exerc&iacute;cios sobre Heran&ccedil;a e Polimorfismo</a></li>\n</ul>\n\n<p>Reposit&oacute;rios dos exemplos</p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/exemplos-java\" target=\"_blank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" /></a>&nbsp;Exemplos de Java da 1a parte (Estruturado)</p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/exemplos-java-oo\" target=\"_blank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" /></a>&nbsp;Reposit&oacute;rio dos projetos de Orienta&ccedil;&atilde;o a Objetos</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/9aa87dc2-2abd-4b5c-b7f5-204086dbad20.jpg",
+                "avaliacao": 0.0,
+                "emiteCertificado": 1,
+                "cargaHoraria": 744
+            },
+            {
+                "id": 11,
+                "nome": "Introdução ao FrontEnd para quem não manja",
+                "sinopse": "<p>Se você, assim como eu, apanha que nem cachorro de CSS, Layout, composição de cores e tudo mais? Te digo uma coisa sincera: Tamo junto!</p><p>Pois é, pra quem é Back End, sempre há aquela dificuldade clássica de se aventurar no Front End. Então eu decidi também me aventurar por esse caminho. O que eu sei? O mínimo (de verdade, manjo muito pouco). Mas mesmo sabendo o mínimo, se soubermos as coisas corretas ou se soubermos fazer as perguntas corretas, dá pra gente se virar bem!</p><p>Veja o resultado. Além de fazer um página (claro que peguei inspiração de um site de designers), conseguimos ainda publicá-la num serviço de nuvem gratuito.&nbsp;</p>",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/4955f356-133f-4a6b-9159-657cbee7f6a6.jpeg",
+                "avaliacao": 0.0,
+                "emiteCertificado": 1,
+                "cargaHoraria": 187
+            },
+            {
+                "id": 12,
+                "nome": "Fundamentos de API Java com SpringBoot",
+                "sinopse": "<p>Nesta s&eacute;rie vamos explorar a constru&ccedil;&atilde;o de uma API Java usando SpringBoot.</p>\n\n<p>As boas pr&aacute;ticas, como o Modelo de Maturidade de Richardson para a organiza&ccedil;&atilde;o e compreens&atilde;o das URLs das APIs S&atilde;o abordados, bem como a organiza&ccedil;&atilde;o dos componentes internos (servi&ccedil;os, modelos, controlares, reposit&oacute;rios, entre outros)</p>\n\n<p>Tamb&eacute;m exploramos a fundamental integra&ccedil;&atilde;o com Bases de Dados atrav&eacute;s do JPA com Hibernate</p>\n\n<p>Vem comigo que vamos explorar todas essas caracter&iacute;sticas para voc&ecirc; come&ccedil;ar a criar seu software por inteiro</p>\n\n<p><strong>O c&oacute;digo fonte do projeto est&aacute; dispon&iacute;vel neste <a href=\"http://isigit.professorisidro.com.br/professorisidro/projetoempresa\">LINK</a> aqui (o script do banco de dados est&aacute; incluso no pr&oacute;prio projeto)</strong></p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/56f67107-aa96-4d93-b2e6-bf6885ab67bd.jpeg",
+                "avaliacao": 0.0,
+                "emiteCertificado": 1,
+                "cargaHoraria": 377
+            },
+            {
+                "id": 13,
+                "nome": "Fundamentos de Angular",
+                "sinopse": "<p>Aqui neste curso vamos esgotar o assunto Angular e nos tornar ultra mega especialistas em Front End?&nbsp;</p>\n\n<p>A resposta mais sincera do Isidro seria: &ldquo;acho que n&atilde;o!&rdquo;. Mas por que?</p>\n\n<p>Obviamente a &aacute;rea de Front End &eacute; um universo quase inesgot&aacute;vel de conhecimento e seria humanamente imposs&iacute;vel esgotar assuntos (assim como Java por exemplo). E al&eacute;m do mais, Angular &eacute; um framework extremamente poderoso e robusto para fazermos aplica&ccedil;&otilde;es fant&aacute;sticas, mas que, tamb&eacute;m, precisariam de quase que uma vida para dominarmos tudo com maestria.</p>\n\n<p>Mas o que vamos ver, ent&atilde;o neste curso?</p>\n\n<p>O objetivo principal deste curso &eacute; capacitar cada um de voc&ecirc;s com conhecimento suficiente para desenvolver uma aplica&ccedil;&atilde;o do in&iacute;cio ao fim, unindo frontEnd responsivo com BackEnd (que nesta altura do campeonato, espero que j&aacute; esteja craque)</p>\n\n<p>Vamos &agrave; ementa:</p>\n\n<ul>\n\t<li>Por que Angular?</li>\n\t<li>Fundamentos de como o Angular Funciona</li>\n\t<li>A estrutura do Projeto</li>\n\t<li>Componentes</li>\n\t<li>Rotas</li>\n\t<li>Ciclo de vida dos componentes</li>\n\t<li>Interpola&ccedil;&atilde;o e &ldquo;Binding&rdquo; de propriedades e Eventos</li>\n\t<li>Manipulando formul&aacute;rios</li>\n\t<li>M&oacute;dulos</li>\n\t<li>Uma breve introdu&ccedil;&atilde;o ao TypeScript</li>\n\t<li>Consumindo APIs &nbsp;e configurando ambientes</li>\n\t<li>Comunica&ccedil;&atilde;o entre componentes</li>\n\t<li>Guards e Middlewares</li>\n\t<li>Um estudo de caso envolvendo quase tudo isso</li>\n\t<li>Build e Deploy</li>\n</ul>\n\n<p>Mesmo eu considerando isso o &ldquo;B&aacute;sico do B&aacute;sico&rdquo;, ainda &eacute; bastante coisa para que a gente possa estudar e fazer uma aplica&ccedil;&atilde;o completa</p>\n\n<p>Ent&atilde;o, bora pra nossa jornada?</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/8ae64738-a660-4f7c-ba3a-4b680ffc4960.jpeg",
+                "avaliacao": 0.0,
+                "emiteCertificado": 1,
+                "cargaHoraria": 209
+            },
+            {
+                "id": 19,
+                "nome": "02-GIT - Versionamento e CI/CD",
+                "sinopse": "<p>Nesta s&eacute;rie vamos explorar os elementos b&aacute;sicos daquele que &eacute;, talvez o mais famoso gerenciador de vers&otilde;es atualmente: o GIT</p>\n\n<p>Pois &eacute;, mas GIT e GITHUB s&atilde;o a mesma coisa? A resposta simples &eacute; N&Atilde;O (E vc saber&aacute; o porque)</p>\n\n<p>Aqui o mais importante: sua organiza&ccedil;&atilde;o far&aacute; total diferen&ccedil;a. De nada adianta a melhor ferramenta do mundo se voc&ecirc; n&atilde;o entender o prop&oacute;sito dela e organizar-se para utiliza-la ok?</p>\n\n<p>Ent&atilde;o bora que a jornada est&aacute; s&oacute; come&ccedil;ando :)</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/3ea89435-265e-404f-a208-17a345068ca5.jpg",
+                "avaliacao": 0.0,
+                "emiteCertificado": 1,
+                "cargaHoraria": 61
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "descricao": "IsiHacks",
+        "series": [
+            {
+                "id": 31,
+                "nome": "Desafio Javão da Massa 2.0 - Streams",
+                "sinopse": "<p>E c&aacute; estamos no Desafio Jav&atilde;o da Massa 2.0</p>\n\n<p>Agora vamos tratar de Streams. Mas opr que Streams? Ao longo dos dias voc&ecirc; vai perceber o poder que Streams podem te dar para processamento de listas (pricipalmente) e como tudo pode ficar&nbsp;<strong>extremamente</strong>&nbsp;simplificado, agrupando diversas opera&ccedil;&otilde;es complexas em 1 &uacute;nica fun&ccedil;&atilde;o.</p>\n\n<p>Isso &eacute; sensacional.</p>\n\n<p>Ent&atilde;o n&atilde;o perca mais tempo e bora pra ver todos os dias!!</p>\n\n<p><a href=\"https://iris-odometer-a0c.notion.site/Streams-1137ba9048fa80cf85fbe5730451f7dc\" target=\"_blank\">Aqui est&aacute; um material complementar pra voc&ecirc;s</a></p>\n\n<p>E aqui est&aacute; o link do reposit&oacute;rio dos exemplos</p>\n\n<p><a href=\"https://github.com/professorisidro/desafio_javao_2.0\" target=\"_blank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" /></a></p>\n\n<p>&nbsp;</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/4e1d72d7-ba2b-42c2-8b0f-bdd940e0b09d.png",
+                "avaliacao": 0.0,
+                "emiteCertificado": 0,
+                "cargaHoraria": 59
+            },
+            {
+                "id": 8,
+                "nome": "Development Hacks",
+                "sinopse": "<p>Esta série de dicas tem por objetivo apresentar ferramentas que serão úteis em algum momento do seu desenvolvimento de software, seja ele</p><ul><li>conceitual (entendendo como os frameworks usam determinadas ferramentas para operar)</li><li>prático (entenda uma ferramenta e já a aplique no seu próximo projeto)</li></ul><p>Use e abuse de seus recursos e #vamosprogramar</p>",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/39174df9-55a1-4df6-96f7-b83c68c41858.jpeg",
+                "avaliacao": 0.0,
+                "emiteCertificado": 0,
+                "cargaHoraria": 76
+            },
+            {
+                "id": 10,
+                "nome": "Dicas e Conceitos",
+                "sinopse": "<p>Muita vezes é necessário dar “um passo atrás para poder dar 2 passos à frente\". Já se sentiu nessa situação?&nbsp;</p><p>É muito interessante querermos ir direto para uma tecnologia. Mas e quando nos falta base? Ou mesmo quando nos falta um roteiro (nem que seja mínimo) para entendermos como determinada tecnologia é aplicada ou mesmo o que efetivamente precisamos fazer.</p><p>Hoje no mundo do desenvolvimento, para você fazer uma API (por mais simples que seja), você vai precisar entender uma série de detalhes que são fundamentais para o funcionamento mínimo das coisas.</p><p>Ou mesmo quando te disserem: “desenvolve o front e o back\", você vai entender efetivamente o que são estes conceitos?</p><p>Por isso que esta série é fundamental para você compreender um pouco mais a fundo estas questões!</p><p>Vem comigo!</p>",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/bb7f3bb5-d836-47a0-b681-00dc685985d3.jpeg",
+                "avaliacao": 0.0,
+                "emiteCertificado": 0,
+                "cargaHoraria": 41
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "descricao": "IsiCasts",
+        "series": [
+            {
+                "id": 6,
+                "nome": "Estudos e Carreira",
+                "sinopse": "<p>Quer mesmo compreender como evoluir na carreira? O que &eacute; realmente importante? Como efetivamente tornar o seu trabalho (ou estudo) algo al&eacute;m do &quot;cumprir tarefas&quot;?</p><p>Comprometa-se consigo mesmo. Fa&ccedil;a o pequeno dever do dia-a-dia. Seja fiel ao seu prop&oacute;sito. E nao caia naquela conversinha do &quot;como voc&ecirc; se v&ecirc; daqui 10 anos?&quot;. Isso n&atilde;o tem resposta. Mas o que voc&ecirc; pode fazer hoje e permanecer fazendo por 10 anos para melhorar um pouquinho a cada dia. Esse &eacute; o segredo.</p><p>Neste podcast vamos falar do que realmente importa: sua vida!</p>",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/2477c34f-3faf-4d2b-95e5-5e8334330537.jpg",
+                "avaliacao": 5.0,
+                "emiteCertificado": 0,
+                "cargaHoraria": 118
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "descricao": "IsiLives",
+        "series": [
+            {
+                "id": 33,
+                "nome": "Test Drive Development - Masterclass",
+                "sinopse": "<p>Documenta&ccedil;&atilde;o (<a href=\"https://iris-odometer-a0c.notion.site/Sistema-de-inscri-es-em-Eventos-17d7ba9048fa80f3a943cfb392f7157b\" target=\"_blank\">NOTION</a>)</p>\n\n<p>Link do Reposit&oacute;rio</p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/events\" target=\"_blank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" /></a>Reposit&oacute;rio da API</p>\n\n<p>&nbsp;</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/4ac9df08-bccc-4d7b-b490-2d62aa886068.png",
+                "avaliacao": 0.0,
+                "emiteCertificado": 0,
+                "cargaHoraria": 277
+            },
+            {
+                "id": 28,
+                "nome": "MasterClass - Arquiteturas Hexagonais",
+                "sinopse": "",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/444f5e1a-5879-45ab-b22b-567e6489224a.png",
+                "avaliacao": 0.0,
+                "emiteCertificado": 1,
+                "cargaHoraria": 142
+            },
+            {
+                "id": 5,
+                "nome": "O Mínimo de Docker",
+                "sinopse": "<p>O Mínimo que você precisa saber sobre Docker!</p><p>Docker é uma das ferramentas mais fantásticas para você tornar seu ambiente de desenvolvimento, testes ou produção de fácil configuração, fácil recuperação e fácil replicação! Esse é o ponto!</p><p>Então vem comigo pra gente entender como o Docker funciona e como a gente pode fazer bom uso desta ferramenta</p>",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/84b47b58-d17e-4a79-9472-29f9e748c8a5.jpg",
+                "avaliacao": 0.0,
+                "emiteCertificado": 0,
+                "cargaHoraria": 108
+            },
+            {
+                "id": 4,
+                "nome": "Collections, Streams e Padrões de Projeto em Java",
+                "sinopse": "<p>Vamos aprender um pouco sobre como voc&ecirc; pode dar um novo passo nos conceitos de Orienta&ccedil;&atilde;o a Objetos e como trabalhar estes aspectos na sua aplica&ccedil;&atilde;o.</p>\n\n<p>Entenda como trabalhar com cole&ccedil;&otilde;es em Java</p>\n\n<p>Padr&atilde;o Solid - isole responsabilidades, gerencie objetos de forma eficiente, use a heran&ccedil;a a seu favor</p>\n\n<p>Design Patterns - use o poder dos padr&otilde;es de projeto para fazer software mais f&aacute;cil de manter e com muito mais expressividade.</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/eceaef97-a371-4b6f-ba65-7db691dbc482.jpg",
+                "avaliacao": 0.0,
+                "emiteCertificado": 1,
+                "cargaHoraria": 440
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "descricao": "IsiAcademy",
+        "series": [
+            {
+                "id": 23,
+                "nome": "IsiSpring - O Framework Web da IsiFLIX",
+                "sinopse": "<p>Sim estamos criando nosso pr&oacute;prio Framework Web! O IsiSpring! E o que isso significa? Significa que vamos explorar todos os fundamentos de desenvolvimento Web para criarmos uma infraestrutura na qual consigamos proporcionar para um projeto Web simples toda a parte de tratamento das requisi&ccedil;&otilde;es HTTP.</p>\n\n<p>&Eacute; isso mesmo! Vamos entender como isso se d&aacute; e como a gente consegue criar usando os conceitodas vistos na universidade (como teoria dos grafos, recursividade e Java Reflection) para manipular em tempo real todas as requisi&ccedil;&otilde;es HTTP, realizar os redirecionamentos e tamb&eacute;m trabalhar a inje&ccedil;&atilde;o de depend&ecirc;ncia (usando interfaces e implementa&ccedil;&otilde;es).</p>\n\n<p>Vem comigo que vai ser muito massa!</p>\n\n<p>Link do reposit&oacute;rio para refer&ecirc;ncia</p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/isispring\" target=\"_blank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" /></a></p>\n\n<p>Link do reposit&oacute;rio da aplica&ccedil;&atilde;o Web Exemplo</p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/MyWebTestApplication\" target=\"_blank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" /></a></p>\n\n<p>&nbsp;</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/50459904-9a06-40c3-99c3-3f35b8542d7b.png",
+                "avaliacao": 0.0,
+                "emiteCertificado": 1,
+                "cargaHoraria": 214
+            },
+            {
+                "id": 27,
+                "nome": "Imersão IA com Java",
+                "sinopse": "<p>Que tal explorar esse novo mundo dos LLMs, s&oacute; que agora com Java?</p>\n\n<p>Aqui vamos conhecer e utilizar o LangChain4J, uma implementa&ccedil;&atilde;o de uma famosa biblioteca Python para maninpula&ccedil;&atilde;o de LLMs, s&oacute; que agora em Java</p>\n\n<p>Nestas aulas, voc&ecirc; confere os seguintes itens:</p>\n\n<ul>\n\t<li>Uma breve introdu&ccedil;&atilde;o sobre IA, Redes Neurais e LLM</li>\n\t<li>Prompt Engineering</li>\n\t<li>Por que o LangChain4J?</li>\n\t<li>Um pequeno exemplo de como fazer um chat em 1 &uacute;nica linha \\o/</li>\n\t<li>Entendendo Prompts estruturados e contexto</li>\n\t<li>Retrieval Augmented Generation (RAG)</li>\n\t<li>Vector Embeddings</li>\n\t<li>Modelos Locais</li>\n</ul>\n\n<p>Aproveite e confira um <a href=\"https://app.isiflix.com.br/#/download?q=044f88e9-cd1b-4174-a2a5-cfef09afa97c\" target=\"_blank\">EBOOK</a> que s&oacute; alunos IsiFLIX tem acesso.&nbsp;</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/1f9817af-95b3-4649-9dfc-5b2362d38bf7.png",
+                "avaliacao": 0.0,
+                "emiteCertificado": 1,
+                "cargaHoraria": 222
+            },
+            {
+                "id": 29,
+                "nome": "SerWeJa - O Servidor Web Java",
+                "sinopse": "<p>Que tal explorar o mundo dos sistemas distribu&iacute;dos criando um Servidor Web &quot;from scratch&quot;, ou seja, do zero?</p>\n\n<p>&Eacute; isso que vamos explorar no projeto SerWeJa (que n&atilde;o tem nada a ver com a bebida - se voc&ecirc; pronunciar a palavra em som alto e r&aacute;pido), que &eacute; nosso <strong>Ser</strong>vidor <strong>We</strong>b em <strong>Ja</strong>va.</p>\n\n<p>Vamos tratar as requisi&ccedil;&otilde;es GET e POST e, principalmente, tornar nosso Servidor Web um Application Server, ou seja... Vamos executar c&oacute;digo dentro dele! E c&oacute;digo Java!</p>\n\n<p>Link do Reposit&oacute;rio</p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/serweja\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" /></a>&nbsp;Reposit&oacute;rio do SerWeJa</p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/serweja-ee\" target=\"_blank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" /></a>&nbsp;Reposit&oacute;rio do SerWeJaEE</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/a030f29d-ad9d-4b87-9102-a5a70c0aaab5.png",
+                "avaliacao": 0.0,
+                "emiteCertificado": 0,
+                "cargaHoraria": 585
+            },
+            {
+                "id": 30,
+                "nome": "IsiROKU - Sua Ferramenta de Deploy",
+                "sinopse": "<p>Um problema s&eacute;rio que aflige toda galera de Desenvolvimento Java atualmente: a falta de um provedor para hospedarmos nossas APIs de forma &quot;simples&quot; e &quot;f&aacute;cil&quot;. Ficamos sim &oacute;rf&atilde;os do Heroku e isso ainda n&atilde;o teve uma solu&ccedil;&atilde;o bacana.</p>\n\n<p>Por conta disso, que tal se pegarmos uma m&aacute;quina encostada para fazermos nossos testes? Com apenas Shell Script e algumas configura&ccedil;&otilde;es m&iacute;nimas, conseguimos criar um script que recebe como entrada um Link de reposit&oacute;rio do Github e gera como sa&iacute;da a URL p&uacute;blica da nossa API. Nosso IsiROKU ser&aacute; feito de forma mais simples do que se imagina</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/9f9aa8a0-acff-47c0-a2bd-6e5d3311c1a4.png",
+                "avaliacao": 0.0,
+                "emiteCertificado": 1,
+                "cargaHoraria": 147
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "descricao": "IsiFLIX",
+        "series": [
+            {
+                "id": 15,
+                "nome": "A experiência IsiFLIX",
+                "sinopse": "<p>Aqui voc&ecirc; vai ter contato com o meu mais ambicioso projeto da carreira. Transformar vidas atrav&eacute;s da capacita&ccedil;&atilde;o em programa&ccedil;&atilde;o e desenvolvimento de Software.</p>\n\n<p>Venha comigo. Vamos juntos criar uma jornada que vai te permitir criar solu&ccedil;&otilde;es para quaisquer usu&aacute;rios e ter uma vis&atilde;o real do que &eacute; trabalhar com software.</p>\n\n<p>Aqui vamos fazer um resumo de cada um dos IsiCases mais importantes para sua forma&ccedil;&atilde;o</p>\n\n<h2>IsiCases</h2>\n\n<h3>Software para Servir</h3>\n\n<p><em>Resumo</em><strong>:</strong>&nbsp;Aqui temos o nosso primeiro estudo de caso completo, com o desafio de fazermos um sistema completo para a Let&iacute;cia gerenciar e vender seus produtos Natura. Como &eacute; o primeiro software e uma vers&atilde;o de 2020/2021 as tecnologias utilizadas est&atilde;o um tanto quanto &quot;defasadas&quot; em rela&ccedil;&atilde;o ao cen&aacute;rio atual. Entretanto, os conceitos e desafios s&atilde;o perenes e nos ajudam demais a entender desde o requisito, sele&ccedil;&atilde;o da tecnologia, modifica&ccedil;&otilde;es exigidas pelo cliente (e impacto disso) e entrega.</p>\n\n<p><strong><em>Complexidade</em>: M&eacute;dia</strong></p>\n\n<h3>Salutar - A Cl&iacute;nica de Fisioterapia</h3>\n\n<p><strong>RESUMO:&nbsp;</strong>Aqui vamos criar uma aplica&ccedil;&atilde;o &quot;simples&quot; para uma cl&iacute;nica de fisioterapia que precisa automatizar suas fichas de pacientes. O modelo de dados &eacute; bastante simples e nos ajuda a entender mais o processo de in&iacute;cio ao fim de constru&ccedil;&atilde;o de um software. Fizemos uma entrevista com o cliente e propusemos um desafio diferente neste projeto: Usar Docker em uma m&aacute;quina da Oracle Cloud para conseguirmos deixar dispon&iacute;vel o projeto.</p>\n\n<p><strong>COMPLEXIDADE: Baixa</strong></p>\n\n<h3>A Newsletter da IsiFLIX</h3>\n\n<p><strong>RESUMO: </strong>Aqui a id&eacute;ia &eacute; fazermos um modelo simples de envio de emails. Um front extremamente simples para apenas termos um editor WYSIWYG para escrevermos nossa &quot;campanha&quot; de comunica&ccedil;&atilde;o e enviarmos via servi&ccedil;o de SMTP do Google com JavaMail.</p>\n\n<p><strong>COMPLEXIDADE: Baixa/M&eacute;dia</strong></p>\n\n<h3>TrueDev - A API de Com&eacute;rcio Eletr&ocirc;nico</h3>\n\n<p><strong>RESUMO:</strong>&nbsp;Neste projeto n&atilde;o pensamos no sistema como um todo, mas apenas em criar uma API baseada num documento de uma entrevista com um cliente. A necessidade &eacute; real, por&eacute;m focamos apenas no back-end. Tamb&eacute;m n&atilde;o foi feita a pulica&ccedil;&atilde;o da API em nenhum servi&ccedil;o de nuvem (tipo Heroku, Netlify, Render, entre outros). O foco foi entender um problema e criar uma API para isso!</p>\n\n<p><strong>COMPLEXIDADE: Baixa</strong></p>\n\n<h3>The FaceAPP IsiBank Application</h3>\n\n<p><strong>RESUMO: </strong>Aqui um dos principais desafios at&eacute; o momento: integrar diferentes tecnologias, metodologias e pr&aacute;ticas para criamos uma API de um Internet banking usando os seguintes recursos</p>\n\n<ul>\n\t<li>Test-Driven Development (vamos explicando o TDD ao longo da execu&ccedil;&atilde;o do projeto)</li>\n\t<li>Vis&atilde;o Computacional</li>\n\t<li>OpenCV/JavaCV e suas bibliotecas</li>\n</ul>\n\n<p>O Resultado foi fant&aacute;stico, pois conseguimos resolver o login dos usu&aacute;rios por reconhecimento facial e tamb&eacute;m por m&eacute;todos &quot;tradicionais&quot;</p>\n\n<p><strong>COMPLEXIDADE: Alta</strong></p>\n\n<p>&nbsp;</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/c8fd48e6-4f74-41cc-a730-43cda6d5191d.png",
+                "avaliacao": 0.0,
+                "emiteCertificado": 0,
+                "cargaHoraria": 17
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "descricao": "IsiCases",
+        "series": [
+            {
+                "id": 16,
+                "nome": "Clinica Salutar - Sistema de Fisioterapia",
+                "sinopse": "<p>Vamos fazer um software do In&iacute;cio ao fim (novamente)</p>\n\n<p>Um cliente veio at&eacute; n&oacute;s com um problema: Ele &eacute; dono de uma cl&iacute;nica de fisioterapia (mas a necessidade &eacute; apenas dele, n&atilde;o dos demais profissionais), e ainda trabalha com prontu&aacute;rios em papel.</p>\n\n<p>Fizemos um documento de especifica&ccedil;&atilde;o m&iacute;nimo para entendermos um pouco dos entreg&aacute;veis <a href=\"https://docs.google.com/document/d/1FOPy6TYbq6ktdJp3jzqSymp6wbpuboy10KDpcLfblR4/edit?usp=sharing\" target=\"_blank\">AQUI</a></p>\n\n<p>Al&eacute;m disso, tem problemas em n&atilde;o conseguir armazenar os exames ou laudos que recebe dos pacientes (e ele n&atilde;o pode ret&ecirc;-los). Vamos aproveitar nossos conhecimentos para ajud&aacute;-lo e fazer um software para sua cl&iacute;nica (na verdade para ele pr&oacute;prio).</p>\n\n<h2>Requisitos para este curso</h2>\n\n<p>Listamos aqu os principais requisitos para voc&ecirc; entender como este curso foi feito</p>\n\n<ul>\n\t<li><a href=\"https://app.isiflix.com.br/#/serie/12\" target=\"_blank\">Desenvolver uma API com SpringBoot</a>\n\n\t<ul>\n\t\t<li><a href=\"https://app.isiflix.com.br/#/serie/7\" target=\"_blank\">Fundamentos de Java</a>\n\n\t\t<ul>\n\t\t\t<li><a href=\"https://app.isiflix.com.br/#/serie/2\" target=\"_blank\">Algoritmos e L&oacute;gica de Programa&ccedil;&atilde;o</a></li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li><a href=\"https://app.isiflix.com.br/#/serie/19\" target=\"_blank\">Controle de Vers&otilde;es com GIT</a></li>\n\t<li><a href=\"https://app.isiflix.com.br/#/serie/3\" target=\"_blank\">Bancos de Dados</a></li>\n\t<li><a href=\"https://app.isiflix.com.br/#/serie/5\" target=\"_blank\">Docker (cria&ccedil;&atilde;o dos reposit&oacute;rios e imagens)</a></li>\n\t<li>Front-End\n\t<ul>\n\t\t<li><a href=\"https://app.isiflix.com.br/#/serie/13\" target=\"_blank\">Fundamentos de Angular</a>\n\t\t<ul>\n\t\t\t<li><a href=\"https://app.isiflix.com.br/#/serie/11\" target=\"_blank\">Front End para quem n&atilde;o manja de Front-End</a></li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n</ul>\n\n<h2>Reposit&oacute;rios IsiGIT</h2>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/salutar\">API Backend</a></p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/salutar_front\">FrontEnd</a></p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/949a2cf3-56f6-47e7-9542-789007460aa1.jpg",
+                "avaliacao": 0.0,
+                "emiteCertificado": 1,
+                "cargaHoraria": 1052
+            },
+            {
+                "id": 17,
+                "nome": "TrueDev - A API de Comércio Eletrônico",
+                "sinopse": "<p>Nesta s&eacute;rie nosso objetivo &eacute; desenvolver todo o BackEnd para um com&eacute;rcio eletr&ocirc;nico de bijuterias</p>\n\n<p>Aqui o foco ser&aacute; criar a API (e apenas ela por enquanto) para que consigamos implementar todas as caracter&iacute;sticas levando em conta um conjunto de ISSUES que v&atilde;o guiar nosso desenvolvimento.</p>\n\n<h2>Requisitos para este curso</h2>\n\n<ul>\n\t<li><a href=\"https://app.isiflix.com.br/#/serie/12\" target=\"_blank\">Desenvolver uma API com SpringBoot</a>\n\n\t<ul>\n\t\t<li><a href=\"https://app.isiflix.com.br/#/serie/7\" target=\"_blank\">Fundamentos de Java</a>\n\n\t\t<ul>\n\t\t\t<li><a href=\"https://app.isiflix.com.br/#/serie/2\" target=\"_blank\">Algoritmos e L&oacute;gica de Programa&ccedil;&atilde;o</a></li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li><a href=\"https://app.isiflix.com.br/#/serie/19\" target=\"_blank\">Controle de Vers&otilde;es com GIT</a></li>\n\t<li><a href=\"https://app.isiflix.com.br/#/serie/3\" target=\"_blank\">Bancos de Dados</a></li>\n</ul>\n\n<h2>Reposit&oacute;rios IsiGIT</h2>\n\n<p>Aqui est&aacute; o reposit&oacute;rio do GIT para voc&ecirc; consultar o c&oacute;digo</p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/ecommerce-truedev\" target=\"_blank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" />&nbsp;Reposit&oacute;rio API</a></p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/f142343d-613f-4e68-9e69-b10ae9db737c.png",
+                "avaliacao": 0.0,
+                "emiteCertificado": 1,
+                "cargaHoraria": 367
+            },
+            {
+                "id": 18,
+                "nome": "A Newsletter da IsiFLIX",
+                "sinopse": "<p>Pois &eacute;&hellip; o prof. Isidro adquiriu um servi&ccedil;o de Email Marketing para fazer a Newsletter para os alunos da IsiFLIX.</p>\n\n<p>Mas sabe o problema? De TODOS (eu disse TODOS) os emails que foram cadastrados, s&oacute; 1 (UUUUMMMMM) foi enviado: o meu mesmo!!!!&nbsp;</p>\n\n<p>Cacete de agulha!!!!!&nbsp;</p>\n\n<p>Tudo bem que eu n&atilde;o sabia que os contatos dessas ferramentas teria que ser feita via um tal de &ldquo;opt in&rdquo;. Esse Opt In a&iacute; &eacute; no fundo &eacute; ser cadastrado via os pr&oacute;prios formul&aacute;rios das ferramentas (valeu pela explica&ccedil;&atilde;o Wybson!!)</p>\n\n<p>Bom, mas agora que n&atilde;o temos como fazer a bendita ferramenta funcionar, vamos fazer nosso pr&oacute;prio sistema de Newsletter</p>\n\n<p>Aqui vamos fazer uma API que permita envio de emails (com uma mensagem HTML depois em um editor customizado) e vamos fazer envios em lotes de mensagens (pra n&atilde;o sobrecarregar e fazer nosso email tornar-se um SPAMMER).&nbsp;</p>\n\n<p>Ah e vamos usar o SMTP do Google! :D (e usar o H2 gravando em arquivo como &ldquo;mini&rdquo; base de dados)</p>\n\n<p>Vem com a gente pro Isidro ficar menos pistola da vida ;-)</p>\n\n<h2>Requisitos para este curso</h2>\n\n<p>Listamos aqu os principais requisitos para voc&ecirc; entender como este curso foi feito</p>\n\n<ul>\n\t<li><a href=\"https://app.isiflix.com.br/#/serie/12\" target=\"_blank\">Desenvolver uma API com SpringBoot</a>\n\n\t<ul>\n\t\t<li><a href=\"https://app.isiflix.com.br/#/serie/7\" target=\"_blank\">Fundamentos de Java</a>\n\n\t\t<ul>\n\t\t\t<li><a href=\"https://app.isiflix.com.br/#/serie/2\" target=\"_blank\">Algoritmos e L&oacute;gica de Programa&ccedil;&atilde;o</a></li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li><a href=\"https://app.isiflix.com.br/#/serie/19\" target=\"_blank\">Controle de Vers&otilde;es com GIT</a></li>\n\t<li><a href=\"https://app.isiflix.com.br/#/serie/3\" target=\"_blank\">Bancos de Dados</a>&nbsp;- Aqui o m&iacute;nimo do m&iacute;nimo pois ao inv&eacute;s de usarmos o MySQL como de costume, usamos o H2 gravando em arquivos (mega simples sem muita firula)</li>\n\t<li>Front-End\n\t<ul>\n\t\t<li><a href=\"https://app.isiflix.com.br/#/serie/13\" target=\"_blank\">Fundamentos de Angular</a></li>\n\t</ul>\n\t</li>\n</ul>\n\n<h2>Reposit&oacute;rios IsiGIT</h2>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/newsletter-back\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" /></a>Reposit&oacute;rio BackEnd</p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/newsletter_front\" target=\"_blank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" /></a>Reposit&oacute;rio FrontEnd</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/b588bb6b-257f-4a2d-9b45-e4422594f289.png",
+                "avaliacao": 0.0,
+                "emiteCertificado": 0,
+                "cargaHoraria": 375
+            },
+            {
+                "id": 20,
+                "nome": "IsiMentoring",
+                "sinopse": "<p>Nesta s&eacute;rie temos mentorias dos mais diversos temas. E como isso &eacute; feito? Muitas vezes nas nossas discuss&otilde;es de aulas ao vivo, surgem temas que valem a pena serem explorados. Sejam por sugest&otilde;es da galera presente, sejam por id&eacute;ias que tivemos em alguma outra discuss&atilde;o. Ent&atilde;o aqui temos um &quot;espa&ccedil;o&quot; livre para aprofundarmos nossos conceitos e nossa t&eacute;cnica</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/0efc9ae8-5854-496e-a5d0-b0801e09113c.png",
+                "avaliacao": 0.0,
+                "emiteCertificado": 0,
+                "cargaHoraria": 602
+            },
+            {
+                "id": 21,
+                "nome": "The FaceAPP IsiBank",
+                "sinopse": "<p>E se fiz&eacute;ssemos um novo aplicativo onde nosso foco seja, n&atilde;o apenas um &ldquo;aplicativo simples&rdquo;, mas um aplicativo com uma tecnologia que est&aacute; em alta no mercado?&nbsp;</p>\n\n<p>Sim, estamos falando de Reconhecimento facial!</p>\n\n<p>Vamos explorar os recursos do JavaCV para reconhecer nossos usu&aacute;rios no sistema e vamos entender como o treinamento da rede de neural de reconhecimento funciona</p>\n\n<p>Al&eacute;m disso, todo o planejamento com materiais de apoio est&aacute; dispon&iacute;vel neste Trello aqui</p>\n\n<p>&nbsp;</p>\n\n<p><a href=\"https://trello.com/invite/b/UGAehz1Y/ATTIbac6e848a17f4c16590084d104cb0ecf87D70614/faceappbank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/d35286c2-1cdd-4a64-aa10-b833d8a594e1.png\" style=\"height:48px; width:48px\" /></a><a href=\"http://trello.com/invite/b/UGAehz1Y/ATTIbac6e848a17f4c16590084d104cb0ecf87D70614/faceappbank\" target=\"_blank\">&nbsp;Link do Trello</a></p>\n\n<p>E o link dos reposit&oacute;rios est&aacute; em anexo</p>\n\n<p>&nbsp;</p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/facebank-api\" target=\"_blank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" /></a>&nbsp;Link do Reposit&oacute;rio da API&nbsp;</p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/facebank-front\" target=\"_blank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" /></a>&nbsp;Link do Reposit&oacute;rio do FrontEnd</p>\n\n<p>Partiu para uma das jornadas mais legais aqui da IsiFLIX</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/805ead11-fbc6-44c0-841d-6a7dfb18ba2a.png",
+                "avaliacao": 0.0,
+                "emiteCertificado": 0,
+                "cargaHoraria": 907
+            },
+            {
+                "id": 24,
+                "nome": "IsiFLIX Open House",
+                "sinopse": "<p>Aqui vamos fazer uma coisa bem legal.... recebi a sugest&atilde;o do Wivson para fazermos &quot;aul&otilde;es abertos&quot; pra galera justamente conhecer a metodologia da IsiFLIX e entender como a gente trabalha aqui.</p>\n\n<p>Ent&atilde;o eu fiquei pensando... legal pra caramba... mas como eu converso com esses convidados depois? Como eu posso mandar um email pra eles pedindo feedback ou mesmo oferecendo um cupom promocional, etc?</p>\n\n<p>Foi a&iacute; que tive uma id&eacute;ia... e se peg&aacute;ssemos a HOME da Isiflix, colocassemos um formul&aacute;rio para que o nosso convidado colocasse nome e email e isso redirecionasse ele para a p&aacute;gina da live? Um BackEnd mega simples apenas para termos uma forma de armazenar o contato do nosso convidado para depois mantermos uma comunica&ccedil;&atilde;o.</p>\n\n<p>disso surgiu nosso projetinho de 1 aula: o IsiFLIX Open House</p>\n\n<p>Divirta-se :)</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/182b2f37-55e7-4fe5-9f3d-88bc18c32303.png",
+                "avaliacao": 0.0,
+                "emiteCertificado": 0,
+                "cargaHoraria": 100
+            },
+            {
+                "id": 26,
+                "nome": "Moments App",
+                "sinopse": "<p>Vamos fazer nosso aplicativo de empreendedorismo! Bora pra jornada!</p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/appmoments-back\" target=\"_blank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" />&nbsp;Reposit&oacute;rio do Backend</a></p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/appmoments-front\" target=\"_blank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" />&nbsp;Reposit&oacute;rio do FrontEnd do Site principal</a></p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/photo-appmoments\" target=\"_blank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" />&nbsp;Reposit&oacute;rio do FronEnd do aplicativo de Fotos</a></p>\n\n<p>&nbsp;</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/b345cf57-9fb2-41e8-a00e-5393a93e37f0.png",
+                "avaliacao": 0.0,
+                "emiteCertificado": 0,
+                "cargaHoraria": 1014
+            },
+            {
+                "id": 14,
+                "nome": "Software para Servir",
+                "sinopse": "<p>O famoso &ldquo;Sistema da Let&iacute;cia&rdquo; que o Isidro tanto fala! Aqui apresentamos toda a jornada para constru&ccedil;&atilde;o de um sistema real, para uma pessoal real, tendo um foco e uma defini&ccedil;&atilde;o de tecnologias claras.</p>\n\n<p>Passamos por todas as etapas: desde a obten&ccedil;&atilde;o de requisitos, desenvolvimento em camadas, configura&ccedil;&atilde;o do ambiente de deploy, instala&ccedil;&atilde;o da aplica&ccedil;&atilde;o e configura&ccedil;&atilde;o do PWA Mobile.</p>\n\n<p>Sem roteiro, vendo as coisas darem certo e darem errado.&nbsp;</p>\n\n<p>Pode ter certeza que o maior aprendizado que todos n&oacute;s (eu inclusive) teremos aqui nesta s&eacute;rie vai muito al&eacute;m apenas de software. &Eacute; sobre <strong>pessoas</strong>.</p>\n\n<p>Se quiser conferir a live de entrevista com a Let&iacute;cia, o link est&aacute; <a href=\"https://www.youtube.com/watch?v=nYuKc0DmG7s\">aqui</a> no meu canal do Youtube.</p>\n\n<p>Tamb&eacute;m fizemos uma live para entrega do produto, que tamb&eacute;m est&aacute; <a href=\"https://www.youtube.com/watch?v=LOluJ8GN4Ys\">aqui</a>.</p>\n\n<p>Quer conhecer a loja da Let&iacute;cia? Tudo o que est&aacute; l&aacute; foi feito pela equipe e est&aacute; aqui neste link</p>\n\n<p><a href=\"www.leetir.com.br\">www.leetir.com.br</a></p>\n\n<h2>Requisitos para este curso</h2>\n\n<p>Listamos aqu os principais requisitos para voc&ecirc; entender como este curso foi feito</p>\n\n<ul>\n\t<li><a href=\"https://app.isiflix.com.br/#/serie/12\" target=\"_blank\">Desenvolver uma API com SpringBoot</a>\n\n\t<ul>\n\t\t<li><a href=\"https://app.isiflix.com.br/#/serie/7\" target=\"_blank\">Fundamentos de Java</a>\n\n\t\t<ul>\n\t\t\t<li><a href=\"https://app.isiflix.com.br/#/serie/2\" target=\"_blank\">Algoritmos e L&oacute;gica de Programa&ccedil;&atilde;o</a></li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li><a href=\"https://app.isiflix.com.br/#/serie/19\" target=\"_blank\">Controle de Vers&otilde;es com GIT</a></li>\n\t<li><a href=\"https://app.isiflix.com.br/#/serie/3\" target=\"_blank\">Bancos de Dados</a></li>\n\t<li>Front-End\n\t<ul>\n\t\t<li><a href=\"https://app.isiflix.com.br/#/serie/13\" target=\"_blank\">Fundamentos de Angular</a>\n\t\t<ul>\n\t\t\t<li><a href=\"https://app.isiflix.com.br/#/serie/11\" target=\"_blank\">Front End para quem n&atilde;o manja de Front-End</a></li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li>Alguns assuntos sobre a VPS e sua configura&ccedil;&atilde;o s&atilde;o feitos durante o curso</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Links dos reposit&oacute;rios</p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/naturassp\">API NaturaSSP</a>&nbsp;</p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/naturassp_front\">Front End (Loja)</a></p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/naturassp_admin\">Front End (Administrativo)</a></p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/f6b35e57-1210-4141-9959-c07c0fe1de4b.jpg",
+                "avaliacao": 0.0,
+                "emiteCertificado": 1,
+                "cargaHoraria": 4223
+            },
+            {
+                "id": 32,
+                "nome": "The Wedding API - Boas práticas",
+                "sinopse": "<p>Vamos fazer um projeto com uma finalidade nobre! Nosso amigo Fabio vai casar e precisa angariar seus &quot;presentes virtuais&quot; sem ter que ficar deixando taxas absurdas para estes sites que oferecem esse tipo de servi&ccedil;o. A nossa solu&ccedil;&atilde;o? Fazer o nosso pr&oacute;prio sistema. Mas n&atilde;o de qualquer jeito. Vamos l&aacute;:</p>\n\n<ul>\n\t<li>Vamos falar em boas pr&aacute;ticas de gerenciamento de c&oacute;digo (ou GitFLOW)</li>\n\t<li>Vamos pensar em uma arquitetura que permita tratar e gerenciar erros de forma mais elegante (Error Handling)</li>\n\t<li>Vamos fazer testes unit&aacute;rios, de integra&ccedil;&atilde;o e criar diferentes perfis de testes</li>\n\t<li>Vamos buscar um sistema de deploy cont&iacute;nuo que nos permita testar a nossa API a cada commit.</li>\n</ul>\n\n<p>Por que tudo isso? Porque as BigTech usam e isso pode te ajudar a conseguir se sair muito melhor nas entrevistas t&eacute;cnicas</p>\n\n<p><a href=\"http://isigit.professorisidro.com.br/professorisidro/wedding_api\" target=\"_blank\"><img alt=\"\" src=\"https://app.isiflix.com.br/assets/media/images/0ad0f729-82c3-44eb-ad26-543a7503ffb1.png\" style=\"height:38px; width:91px\" /></a>Reposit&oacute;rio da API</p>\n",
+                "imagemCapa": "https://app.isiflix.com.br/assets/banners/ceb56909-3bb9-4918-a5ad-35c6ac44a711.png",
+                "avaliacao": 0.0,
+                "emiteCertificado": 0,
+                "cargaHoraria": 464
+            }
+        ]
+    }
+]
