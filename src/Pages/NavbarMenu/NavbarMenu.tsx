@@ -1,4 +1,3 @@
-import LogoIsiflix from '../../../public/LOGO-ISIFLIX-NAVBAR 1.png'
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
 import ButtonPink from '../../Components/Buttons/ButtonPink/ButtonPink';
@@ -16,7 +15,7 @@ function NavbarMenu() {
 
           {/* Logo */}
           <Link to="/">
-            <img src={LogoIsiflix} alt="logoisiflix" />
+            <img src="/LOGO-ISIFLIX-NAVBAR 1.png" alt="logoisiflix" />
           </Link>
 
           {/* Links - só aparecem em telas médias pra cima */}

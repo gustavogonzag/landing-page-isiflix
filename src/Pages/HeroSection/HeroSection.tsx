@@ -1,4 +1,3 @@
-import IsidroHero from '../../../public/IsidroHero.png'
 import ButtonPinkBig from '../../Components/Buttons/ButtonPinkBig/ButtonPinkBig'
 
 function HeroSection() {
@@ -22,7 +21,7 @@ function HeroSection() {
                 <div className="flex justify-center">
                     <img 
                         className="max-h-[500px] w-auto object-contain" 
-                        src={IsidroHero} 
+                        src="/IsidroHero.png"
                         alt="IsidroHeroSection"  
                     />
                 </div>

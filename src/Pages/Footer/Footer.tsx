@@ -1,4 +1,3 @@
-import LogoIsiFlix from "../../../public/LOGO-ISIFLIX-FOOTER.png"; // ajuste o caminho da sua logo
 import { CircleFadingPlus, MonitorPlay } from "lucide-react";
 
 function Footer() {
@@ -8,7 +7,7 @@ function Footer() {
         
         {/* Coluna 1: Logo e Sobre */}
         <div className="flex flex-col gap-4">
-          <img src={LogoIsiFlix} alt="Logo" className="w-64" />
+          <img src="/LOGO-ISIFLIX-FOOTER.png" alt="Logo" className="w-64" />
         </div>
 
         <div className="flex flex-col gap-4">

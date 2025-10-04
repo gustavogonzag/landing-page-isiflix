@@ -1,4 +1,3 @@
-import IsidroMethods from "../../../public/IsidroMetodos.png"
 import MethodCards from "../../Components/Cards/MethodCards"
 
 function MethodsSession() {
@@ -6,7 +5,7 @@ function MethodsSession() {
         <div className="w-full flex justify-center mt-25">
             <div className="max-w-7xl mx-10 flex flex-wrap justify-between items-center gap-x-20">
                 <div>
-                    <img className="max-h-[1000px] w-120 object-contain" src={IsidroMethods} alt="IsidroHeroSection" />
+                    <img className="max-h-[1000px] w-120 object-contain" src="/IsidroMetodos.png" alt="IsidroHeroSection" />
                 </div>
                 <div className='inline-flex flex-col gap-y-8 items-start'>
                     <h1 className="font-['Loos-Normal'] font-bold text-3xl sm:text-4xl md:text-5xl">

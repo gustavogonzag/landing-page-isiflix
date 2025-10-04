@@ -1,5 +1,3 @@
-import IsidroAboutUs from '../../../public/IsidroAboutUs.png'
-import logoIsiFlix from '../../../public/LOGO-ISIFLIX-FOOTER.png'
 import ScrollToTop from '../../Utils/ScrollToTop'
 
 function AboutUs() {
@@ -12,7 +10,7 @@ function AboutUs() {
           <div className="flex justify-center">
             <img
               className="max-h-[500px] object-contain drop-shadow-lg"
-              src={IsidroAboutUs}
+              src="/IsidroAboutUs.png"
               alt="Professor Isidro"
             />
           </div>
@@ -58,7 +56,7 @@ function AboutUs() {
           <div className="flex justify-center">
             <img
               className="max-h-[400px] md:max-h-[500px] w-auto object-contain drop-shadow-lg"
-              src={logoIsiFlix}
+              src="/LOGO-ISIFLIX-FOOTER.png"
               alt="Logo IsiFLIX"
             />
           </div>
