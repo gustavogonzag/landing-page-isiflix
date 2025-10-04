@@ -14,7 +14,7 @@ function ButtonPink({ textButton, linkButton }: ButtonPinkProps) {
         href={linkButton}
         target="_blank"
         rel="noopener noreferrer"
-        className="px-6 py-2 bg-pink-600 text-white rounded-lg hover:bg-pink-700 transition"
+        className="px-6 py-2 bg-pink-700 text-white rounded-lg hover:bg-pink-800 transition"
       >
         {textButton}
       </a>
