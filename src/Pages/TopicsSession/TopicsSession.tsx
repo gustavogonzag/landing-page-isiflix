@@ -1,4 +1,4 @@
-import CardTopics from "../../Components/Cards/CardTopics"
+import SpotlightCard from '../../Components/Cards/SpotlightCard';
 
 function TopicsSession() {
     return (
@@ -11,12 +11,18 @@ function TopicsSession() {
                     preparar você para o mercado com consistência.</p>
             </div>
             <div className="flex flex-wrap justify-center items-center gap-10 mt-10">
-                <CardTopics title="Imersão guiada:"
-                    description="Aulas planejadas para conduzir você da base à aplicação, com foco no entendimento, não na decoreba." />
-                <CardTopics title="Estudos de casos reais:"
-                    description="Problemas que você encontrará em projetos verdadeiros, resolvidos com clareza e estratégia." />
-                <CardTopics title="Aplicação prática constante:"
-                    description="Você não só assiste — você faz. Exercícios, desafios e simulações que fortalecem sua autonomia." />
+                <SpotlightCard className="custom-spotlight-card" spotlightColor="rgba(250, 53, 115, 1)"
+                    title="Imersão guiada:"
+                    description="Aulas planejadas para conduzir você da base à aplicação, com foco no entendimento, não na decoreba.">
+                </SpotlightCard>
+                <SpotlightCard className="custom-spotlight-card" spotlightColor="rgba(250, 53, 115, 1)"
+                    title="Estudos de casos reais:"
+                    description="Problemas que você encontrará em projetos verdadeiros, resolvidos com clareza e estratégia."
+                ></SpotlightCard>
+                <SpotlightCard className="custom-spotlight-card" spotlightColor="rgba(250, 53, 115, 1)"
+                    title="Aplicação prática constante:"
+                    description="Você não só assiste — você faz. Exercícios, desafios e simulações que fortalecem sua autonomia."
+                ></SpotlightCard>
             </div>
 
         </div>
